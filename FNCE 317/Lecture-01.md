@@ -42,12 +42,16 @@
  - Individual taxes [u pay those lil bro 💔]
  - Corporate taxes [elon musk probably pays these for twitter]
  - Marginal Tax Rate: tax rate you **pay** on your **next dollar of income**
-[![Video 1](https://cdn.discordapp.com/attachments/1145259640867799050/1369411442524028969/ex1.mp4?ex=681bc34a&is=681a71ca&hm=08d653d0617fdf986e6e21af21bc95223abf6c2f01425e2a445959e3d5ad73c5&)
+
+https://github.com/user-attachments/assets/ac107d26-6d53-46b1-bda2-195aa1c16ff0
+
 ```
 Example: "Picture this: You’re making $40,000, fantastic. The tax guy says, “First $30,000, I take 10%, okay? But anything over that, I’m taking 20%, believe me.” So, if you make one more dollar, that dollar gets taxed at 20%. That’s your marginal rate—the tax on the extra cash. It’s like the price of winning more!"
 ```
  - Average Tax Rate: the *overall tax* rate you **pay** on your **total income**
-[![Video 2](https://cdn.discordapp.com/attachments/1145259640867799050/1369411462635716658/ex2.mp4?ex=681bc34f&is=681a71cf&hm=16050b44c8e3b17337d93496419bdb570e7b91f80313c9215028d22a599c97ba&)
+
+https://github.com/user-attachments/assets/791cf936-dd0c-4bc7-8acb-d0f9f36237b9
+
 ```
 Example: "You make $40,000, and you pay $3,000 on the first $30,000 (10%) and $2,000 on the next $10,000 (20%). Total tax is $5,000. Divide that by $40,000, and boom, your average rate is 12.5%. It’s like the average score of a terrific deal."
 ```
