@@ -38,4 +38,33 @@
 ### Some Formulas
 ![image](https://github.com/user-attachments/assets/76463a4f-0b8c-4172-ad7f-ff392e7b461a)
 
-### 
+### Taxes
+ - Individual taxes [u pay those lil bro 💔]
+ - Corporate taxes [elon musk probably pays these for twitter]
+ - Marginal Tax Rate: tax rate you **pay** on your **next dollar of income**
+```
+Example: "Picture this: You’re making $40,000, fantastic. The tax guy says, “First $30,000, I take 10%, okay? But anything over that, I’m taking 20%, believe me.” So, if you make one more dollar, that dollar gets taxed at 20%. That’s your marginal rate—the tax on the extra cash. It’s like the price of winning more!"
+```
+ - Average Tax Rate: the *overall tax* rate you **pay** on your **total income**
+```
+Example: "You make $40,000, and you pay $3,000 on the first $30,000 (10%) and $2,000 on the next $10,000 (20%). Total tax is $5,000. Divide that by $40,000, and boom, your average rate is 12.5%. It’s like the average score of a terrific deal."
+```
+- To Put it simply, Marginal = Tax on the next buck you make; Average = Total tax divided by total money
+
+### Taxes on Investments
+ - you invest in stocks, u gotta *pay taxes* on what you *earn*
+ - Dividend tax [canadians get dividend tax credit to lower the tax you owe on these dividends, prevents double taxation]
+ - Capital gain tax [paid on the profit when you sell a stock for more than you bought it 📈]
+
+#### Capital Cost Allowance [CCA]
+ - depreciation for tax purposes
+ - deducted **before taxes**, acts like a tax shield 🛡️
+ - the *more* the **CCA**, the *lesser tax* you **pay** on the asset
+ - different percentages for different assets, see image below
+![image](https://github.com/user-attachments/assets/f8a0377f-0e5f-474c-96f6-2844af05206b)
+- Additional concept: Group assets in asset classes [like multiple computers]; when one asset sold, reduce value of asset class [subtract book value or realized value of asset sold, whichever is lesser]
+- Closing asset class? When last asset in a class is sold, asset class is terminated. Leads to: terminal loss or recaptured CCA
+- Terminal Loss - Happens if the asset’s book value (Undepreciated Capital Cost, or UCC) is **higher** than what you sell it for (adjusted cost)
+- Recaptured CCA: Happens if the UCC is **lower** than the sale price (adjusted cost)
+
+## Chapter 3 [Working with Financial Statements]
