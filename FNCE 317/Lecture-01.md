@@ -87,7 +87,7 @@ Example: "You make $40,000, and you pay $3,000 on the first $30,000 (10%) and $2
 ### Standardized Financial Statements
  - Common-Size Financial Position = Calculate all accounts as a percent of total assets
  - Common-Size Comprehensive Income = Calculate all line items as a percent of sales
- - Why do it? easier to compare financial information
+ - Why do it? easier to compare financial information ✅
 
 ### Ratios
 #### Liquidity Ratios
@@ -115,7 +115,7 @@ Example: "You make $40,000, and you pay $3,000 on the first $30,000 (10%) and $2
 - Profit Margin = Net Income/Sales
 - Return on Assets (ROA) = Net Income/Total Assets
 - Return on Equity (ROE) = Net Income/Total Equity
-- Return on Equity (ROE) = (Net Income/Sales)x(Sales/Assets)x(Assets/Equity)
+- Return on Equity (ROE) = (Net Income/Sales) x (Sales/Assets) x (Assets/Equity)
 #### Market Value Ratios
 - PE Ratio = Price per share/Earnings per share
 - PEG ratio = PE ratio/Expected future earnings growth rate x 100
@@ -123,3 +123,11 @@ Example: "You make $40,000, and you pay $3,000 on the first $30,000 (10%) and $2
 - EV/EBITDA = [Market value of equity + Market value of interest-bearing debt(and cash equivalent)]/EBITDA
 
 ### The Du Point Identity
+- ROE = Net Income ÷ Total Equity
+- <i dont get this bruh 😭😭😭>
+![image](https://github.com/user-attachments/assets/e05bf5b4-ec3b-460c-aac1-9da2c17cb39a)
+
+### Uses of Financial Statement
+- Internal use: performance evaluation, planning for future
+- External use: creditors, suppliers, customers, shareholders
+- Benchmarking: ratios alone - 🕳️🧑‍🦯; ratios when time trend analysis or peer group analysis - 🤓📝
