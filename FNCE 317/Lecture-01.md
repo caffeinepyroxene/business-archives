@@ -125,6 +125,7 @@ Example: "You make $40,000, and you pay $3,000 on the first $30,000 (10%) and $2
 ### The Du Point Identity
 - ROE = Net Income ÷ Total Equity
 - <i dont get this bruh 😭😭😭>
+
 ![image](https://github.com/user-attachments/assets/e05bf5b4-ec3b-460c-aac1-9da2c17cb39a)
 
 ### Uses of Financial Statement
