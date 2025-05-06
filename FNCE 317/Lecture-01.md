@@ -43,14 +43,14 @@
  - Corporate taxes [elon musk probably pays these for twitter]
  - Marginal Tax Rate: tax rate you **pay** on your **next dollar of income**
 
-https://github.com/user-attachments/assets/ac107d26-6d53-46b1-bda2-195aa1c16ff0
+
 
 ```
 Example: "Picture this: You’re making $40,000, fantastic. The tax guy says, “First $30,000, I take 10%, okay? But anything over that, I’m taking 20%, believe me.” So, if you make one more dollar, that dollar gets taxed at 20%. That’s your marginal rate—the tax on the extra cash. It’s like the price of winning more!"
 ```
  - Average Tax Rate: the *overall tax* rate you **pay** on your **total income**
 
-https://github.com/user-attachments/assets/791cf936-dd0c-4bc7-8acb-d0f9f36237b9
+
 
 ```
 Example: "You make $40,000, and you pay $3,000 on the first $30,000 (10%) and $2,000 on the next $10,000 (20%). Total tax is $5,000. Divide that by $40,000, and boom, your average rate is 12.5%. It’s like the average score of a terrific deal."
