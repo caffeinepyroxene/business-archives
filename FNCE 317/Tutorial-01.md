@@ -13,6 +13,9 @@
 
 ## Question 21
 
+![image](https://github.com/user-attachments/assets/3a44c8bc-0f6c-41ec-8d21-96c083c856d7)
+![image](https://github.com/user-attachments/assets/3662753e-31d9-4d04-b404-74bd9d018fef)
+
 ## Question 6
 
 ![Screenshot From 2025-05-06 18-52-38](https://github.com/user-attachments/assets/0e764c33-224b-4557-bff4-c8e28cc0be97)
