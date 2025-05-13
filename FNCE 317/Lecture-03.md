@@ -4,7 +4,8 @@
 
 ### To Do
 - [ ] Quick Quiz 1 (Part 1)
-- [ ] Quik Quiz (Part 2)
+- [ ] Quick Quiz (Part 2)
+- [ ] Quick Quiz (Part 3)
 
 ### Future and Present Values of Multiple Cash Flows
 ~ Just do the examples from notes 💔🥀
