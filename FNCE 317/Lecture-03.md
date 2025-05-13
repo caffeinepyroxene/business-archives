@@ -27,3 +27,13 @@
 
 #### PV Example - Multiple Cash Flows [6-21]
 - confusing asf 😩
+
+### Annuities
+- **equal** payments at **equal** intervals
+- ![image](https://github.com/user-attachments/assets/f60b14da-b375-45f8-b513-9c74f229afd4)
+
+
+### Perpetuities
+- **infinite** series of **equal*8 payments
+- PV = C/r
+
