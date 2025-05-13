@@ -6,6 +6,7 @@
 - [ ] Quick Quiz 1 (Part 1)
 - [ ] Quick Quiz (Part 2)
 - [x] Quick Quiz (Part 3)
+- [ ] Quick Quiz (part 4)
 
 ### Future and Present Values of Multiple Cash Flows
 ~ Just do the examples from notes 💔🥀
