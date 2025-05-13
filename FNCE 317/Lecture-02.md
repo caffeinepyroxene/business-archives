@@ -4,7 +4,7 @@
 ## Chapter 5 [Introduction to Valuation]
 
 ### To Do:
-- [ ] Get a Financial Calc [i forgor today 😔🥀]
+- [x] Get a Financial Calc [i forgor today 😔🥀]
 
 ### Future Value / Computing
 - PV = Present Value
