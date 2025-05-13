@@ -5,7 +5,7 @@
 ### To Do
 - [ ] Quick Quiz 1 (Part 1)
 - [ ] Quick Quiz (Part 2)
-- [ ] Quick Quiz (Part 3)
+- [x] Quick Quiz (Part 3)
 
 ### Future and Present Values of Multiple Cash Flows
 ~ Just do the examples from notes 💔🥀
@@ -34,8 +34,15 @@
 - **equal** payments at **equal** intervals
 - ![image](https://github.com/user-attachments/assets/f60b14da-b375-45f8-b513-9c74f229afd4)
 
+#### Growing Annuity
+- **limited** number of growing cash flows
+- ![image](https://github.com/user-attachments/assets/7bf6087c-538a-4517-b04c-bbc6de07afa9)
 
 ### Perpetuities
 - **infinite** series of **equal*8 payments
 - PV = C/r
+
+#### Growing Perpetuities
+- cash flows grow at constant rate **forever**
+- ![image](https://github.com/user-attachments/assets/b07fd5f0-0dbc-4d01-ae41-68f1c023df6e)
 
