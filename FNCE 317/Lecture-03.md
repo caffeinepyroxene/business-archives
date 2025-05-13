@@ -11,9 +11,9 @@
 - 3rd year (t = 3): $600
 - 4th year (t = 4) = $800
 - r: 12%
-- Method 1: convert all of them to PV (year 0) and add them
+- Method 1: *convert* all of them to **PV** (year 0) and **add** them
 - PV = FV/(1+r)^t
-- Method 2: use calc CF function 🤓
+- Method 2: use calc **CF** function 🤓
 
 #### PV Example - Multiple Cash Flows [6-16]
 - t = 1 : $1k
@@ -22,4 +22,7 @@
 - r = 10%
 - Calculate PVs and probably add them like last question 👍
 
-### 
+#### PV Example - Multiple Cash Flows [6-21]
+- confusing asf 😩
+
+####
