@@ -47,3 +47,16 @@
 - cash flows grow at constant rate **forever**
 - ![image](https://github.com/user-attachments/assets/b07fd5f0-0dbc-4d01-ae41-68f1c023df6e)
 
+### Effective Annual Rate [EAR]
+- actual annual interest rate that accounts for the effect of compounding over a year
+- ![image](https://github.com/user-attachments/assets/2bc96e61-d0d2-4a17-912e-482e7be69127)
+
+### Annual Percentage Rate [APR]
+- annual rate that is quoted by law
+- period rate times the number of periods per year
+- Period rate = APR/number of periods per year
+- APR to EAR:
+- ![image](https://github.com/user-attachments/assets/37575d3d-42f3-44e9-9a85-f5c4c604ff10)
+
+### Mortgages
+- ~~got tired so no further notes 😴~~
