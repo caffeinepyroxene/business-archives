@@ -2,6 +2,9 @@
 
 ## Chapter 6 [Discounted Cash Flow Valuation]
 
+### To Do
+- [ ] Quick Quiz 1 (Part 1)
+
 ### Future and Present Values of Multiple Cash Flows
 ~ Just do the examples from notes 💔🥀
 
@@ -24,5 +27,3 @@
 
 #### PV Example - Multiple Cash Flows [6-21]
 - confusing asf 😩
-
-####
