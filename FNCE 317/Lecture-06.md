@@ -1,6 +1,6 @@
 # Lecture 06
  
-## Chapter 5 [Net Present Value and other Investment Criteria]
+## Chapter 9 [Net Present Value and other Investment Criteria]
 
 ### To Do List
 - [x] Moved over to discord
