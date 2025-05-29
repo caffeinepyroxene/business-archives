@@ -42,3 +42,13 @@ Total dollar return = income from investment + capital gain (loss) due to change
 - Geometric ![image](https://github.com/user-attachments/assets/2a5660e1-cd1b-46ff-9648-d19f7a2f46b4)
 
 ### Capital Market Efficiency
+- Stock prices reflect all information, fairly priced 👍
+- Cannot consistently earn abnormal or excess returns.  
+- Investors can still earn positive returns ✅ in an efficient market.
+- How market efficent?
+- Many investors actively research stocks.  
+- New information is quickly analyzed and leads to trades.  
+- Prices reflect all available public information.  
+- Market stays efficient only if investors keep researching.
+
+
