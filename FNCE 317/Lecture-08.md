@@ -22,4 +22,11 @@ Total dollar return = income from investment + capital gain (loss) due to change
 - savers invest, and get interest on it
 - borrowers can easily get money from savers, no bank involved
 - provides info about returns
-- 
+
+### Average Returns
+
+#### Risk Premiums
+- **Risk Premium**: Extra return you get for taking on risk.  
+- **Treasury Bills**: Considered risk-free (safe investment).  
+- **Risk Premium Calculation**: Return from a risky investment minus the risk-free rate (Treasury bill return).
+
