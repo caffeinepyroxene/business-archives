@@ -29,10 +29,16 @@ Total dollar return = income from investment + capital gain (loss) due to change
 - **Treasury Bills**: Considered risk-free (safe investment).  
 - **Risk Premium Calculation**: Return from a risky investment minus the risk-free rate (Treasury bill return).
 
-### Variability of Returns
+#### Variability of Returns
 
 - **Variance & Standard Deviation**: Measure how much asset returns fluctuate (volatility).  
 - **Higher Volatility**: Means more uncertainty in returns.  
 - **Historical Variance**: Calculated as the sum of squared differences from the average return, divided by (number of observations – 1).  
 - **Standard Deviation**: Square root of variance, showing the spread of returns.
 
+#### More on Average Returns
+
+- 2 Methods: *Arithmetic* & *Geometric* Average Return
+- Geometric ![image](https://github.com/user-attachments/assets/2a5660e1-cd1b-46ff-9648-d19f7a2f46b4)
+
+### Capital Market Efficiency
