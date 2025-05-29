@@ -1,4 +1,3 @@
-<missing>
 ﻿# Lecture 08
 
 ## Chapter 12 [Lessons from Capital Market History]
