@@ -21,4 +21,5 @@ Balance Sheet
 ### Weighted Cost of Capital
 ![image](https://github.com/user-attachments/assets/728e5808-f378-4e63-9ae7-7e7380bef95e)
 
-
+### Divisional and Project Costs of Capital
+- Pure play approach 
